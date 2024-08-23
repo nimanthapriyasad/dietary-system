@@ -1,0 +1,15 @@
+.outerContainer{
+    /* background-color: #fafafa; */
+    background-image: url("../../assets/loginBgImage.jpg");
+    text-align: center;
+    height: 100vh;
+    background-size: 1920px 1080px;
+}
+
+.formContainer{
+    background-color: rgb(245, 245, 245, .6);
+    padding-bottom: 2%;
+    padding-top: 2%;
+    border-radius: 2%;
+    /* margin-left: 37%; */
+}

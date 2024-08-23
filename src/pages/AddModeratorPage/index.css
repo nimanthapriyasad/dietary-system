@@ -1,0 +1,17 @@
+.fineContainer {
+  /* background-color: #f7f7f7; */
+  background-image: url("../../assets/registerBgImage.jpg");
+  text-align: center;
+  height: 100vh;
+  background-size: 1920px 1080px;
+}
+
+.formRegContainer {
+  background-color: rgb(245, 245, 245, 0.8);
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  border-radius: 2%;
+  /* margin-left: 37%; */
+}
